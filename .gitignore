@@ -1,0 +1,29 @@
+# Build artifacts
+/build/
+/tools/
+/sysroot/
+/rootfs/*
+!/rootfs/.gitkeep
+/logs/*
+
+# Downloaded and extracted upstream sources
+/sources/*
+
+# Compiled artifacts
+*.o
+*.a
+*.so
+*.so.*
+*.lo
+*.la
+*.pyc
+__pycache__/
+
+# Editor and temporary files
+*~
+*.swp
+*.tmp
+.DS_Store
+
+# Generated binutils helper files
+/x86_64-OJLinux-linux-gnu-gprofng-*
