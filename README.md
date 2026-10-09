@@ -44,3 +44,5 @@ version 3 or any later version. See [LICENSE](LICENSE) for the license text.
 ## Maintainer
 
 Created by [ABO-7GAG](https://github.com/ABO7GAG).
+CodeBerg: [ABO-7GAG](https://codeberg.org/ABO-7GAG).
+soon on sourceforge...
