@@ -12,19 +12,19 @@
 * [x] Build GCC Stage 1.
 * [x] Build and install glibc.
 * [x] Install libgcc.
-* [ ] Complete the final GCC build.
-* [ ] Verify C and C++ compilation against the target sysroot.
+* [x] Complete the final GCC build.
+* [x] Verify C and C++ compilation against the target sysroot.
 
 ## Phase 2 — Base Userland
 
-* [ ] Build the required base utilities.
-* [ ] Establish the target filesystem hierarchy.
-* [ ] Create the initial root filesystem.
-* [ ] Define the base system configuration.
+* [x] Build the required base utilities.
+* [x] Establish the target filesystem hierarchy.
+* [x] Create the initial root filesystem.
+* [x] Define the base system configuration.
 
 ## Phase 3 — Bootable System
 
-* [ ] Build the Linux kernel.
+* [x] Build the Linux kernel.
 * [ ] Create a minimal initramfs and recovery environment.
 * [ ] Implement OJinit as PID 1.
 * [ ] Mount the root filesystem and switch to the real root.
