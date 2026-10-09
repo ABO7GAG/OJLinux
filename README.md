@@ -43,4 +43,4 @@ version 3 or any later version. See [LICENSE](LICENSE) for the license text.
 
 ## Maintainer
 
-Created by [ABO-7GAG](https://github.com/ABO-7GAG).
+Created by [ABO-7GAG](https://github.com/ABO7GAG).
